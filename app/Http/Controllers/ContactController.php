@@ -22,7 +22,7 @@ class ContactController extends Controller
         $data = array('name'=>"Formulario de contacto | Agencia Automotriz");
 
         Mail::raw($message, function($message) use ($title, $name, $email){
-            $message->to("k98@live.com", "Carolina Sauceda")->subject
+            $message->to("jobs@talentscode.com", "Carolina Sauceda")->subject
                 ($title);
             $message->from($email, $name);
         });
