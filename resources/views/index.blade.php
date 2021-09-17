@@ -29,10 +29,10 @@
             <a class="nav-link" href="/">Nosotros</a>
         </li>
         <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="/" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <a class="nav-link dropdown-toggle" href="#" id="drop" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Servicios
         </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+        <div class="dropdown-menu" aria-labelledby="drop">
           <a class="dropdown-item" href="/">Arrendamiento</a>
           <a class="dropdown-item" href="/">Estrena tu auto</a>
         </div>
@@ -53,8 +53,8 @@
                         <h1>¿Necesitas un auto? <br><span>Nosotros te ayudamos</span></h1>
                         <p>Nuevos modelos a precios accesibles</p>
                         <div class="d-flex justify-content-around">
-                            <a class="bt-primary" href="#">Arrendamiento</a>
-                            <a class="bt-secondary" href="#">Me interesa comprar</a>
+                            <a class="bt-primary" href="/ponte-en-contacto">Arrendamiento</a>
+                            <a class="bt-secondary" href="/ponte-en-contacto">Me interesa comprar</a>
                         </div>
                     </div>
                     <div class="col-lg-4 col-10">

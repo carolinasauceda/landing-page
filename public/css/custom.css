@@ -20,6 +20,10 @@ body{
     color: #fff !important;
     font-size: 20px;
     letter-spacing: 1.5px;
+    transition: 0.5s;
+}
+.nav-item .nav-link:hover{
+    color: #F4DD61;
 }
 section.hero-1{
     position: relative;

@@ -16,3 +16,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 });
+Route::get('/ponte-en-contacto', function () {
+    return view('form');
+});
+Route::post('/enviar', 'ContactController@enviar');
+
