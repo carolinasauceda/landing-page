@@ -3,7 +3,7 @@
     <div class="row justify-content-center mb-5">
         <div class="col-10 text-center">
             <h1>¡Contáctanos ahora!</h1>
-            <p>Nuestro equipo resolvera todas tus dudas</p>
+            <p>Nuestro equipo resolverá todas tus dudas</p>
         </div>
     </div>
     <hr>

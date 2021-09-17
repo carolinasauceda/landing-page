@@ -38276,7 +38276,7 @@ var staticRenderFns = [
       _c("div", { staticClass: "col-10 text-center" }, [
         _c("h1", [_vm._v("¡Contáctanos ahora!")]),
         _vm._v(" "),
-        _c("p", [_vm._v("Nuestro equipo resolvera todas tus dudas")])
+        _c("p", [_vm._v("Nuestro equipo resolverá todas tus dudas")])
       ])
     ])
   },
